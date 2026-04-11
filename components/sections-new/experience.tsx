@@ -1,13 +1,11 @@
 'use client';
 
-// import { useRef } from 'react';
 import { Briefcase, MapPin, Calendar, ChevronRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { DotGrid } from '@/components/ui/dot-grid';
 import { BorderGlowNew } from '@/components/ui/border-glow-new';
 import { TiltedCard } from '@/components/ui/tilted-card';
 import { SectionHeader } from '../ui/section-header';
-// import { BorderGlow } from '@/components/ui/border-glow';
 
 const experiences = [
   {

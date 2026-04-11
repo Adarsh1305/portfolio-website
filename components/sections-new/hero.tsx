@@ -8,7 +8,6 @@ import { Button } from '@/components/ui/button';
 import { TargetCursor } from '@/components/ui/target-cursor';
 import { OrbBackground } from '@/components/ui/orb-background';
 import { DotGrid } from '@/components/ui/dot-grid';
-// import { BorderGlow } from '@/components/ui/border-glow';
 
 const roles = [
   'Full-Stack Web Developer',
