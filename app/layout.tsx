@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Inter, Geist_Mono } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/next';
 import { ThemeProvider } from '@/components/theme-provider';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import './globals.css';
 import '../styles/border-glow.css';
 
@@ -25,6 +26,9 @@ export const metadata: Metadata = {
     'Next.js',
     'React',
     'Node.js',
+    'CRM Integration',
+    'MongoDB',
+    'Express.js',
     'Dubai',
     'UAE',
   ],
@@ -53,6 +57,8 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
+          <SpeedInsights />
+
           {children}
         </ThemeProvider>
         {process.env.NODE_ENV === 'production' && <Analytics />}
