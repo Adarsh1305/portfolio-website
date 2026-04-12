@@ -215,8 +215,8 @@ export function SkillsSection() {
         <div className='grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8 mb-16'>
           {[
             { label: 'Years Experience', value: 3, suffix: '+' },
-            { label: 'Performance Boost', value: 40, suffix: '%' },
-            { label: 'Productivity Gain', value: 25, suffix: '%' },
+            { label: 'Performance Boost', value: 45, suffix: '%' },
+            { label: 'Productivity Gain', value: 60, suffix: '%' },
             { label: 'Projects Delivered', value: 15, suffix: '+' },
           ].map((metric, index) => (
             <motion.div
