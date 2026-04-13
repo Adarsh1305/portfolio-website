@@ -24,7 +24,7 @@ const projects = [
       'Implemented advanced property search and filtering to improve user engagement and conversion rates',
       'Optimized application performance, SEO, and mobile responsiveness for improved visibility and faster load times',
     ],
-    period: '2024 - Present',
+    period: '2025 - Present',
   },
   {
     title: 'X-Space Admin Panel',
@@ -45,7 +45,7 @@ const projects = [
       'Improved operational efficiency through an intuitive and responsive user interface',
       'Developed and integrated RESTful APIs for seamless data management and system communication',
     ],
-    period: '2024',
+    period: '2025 - Present',
   },
   {
     title: 'Emversity Platform',
