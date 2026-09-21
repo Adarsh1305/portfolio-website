@@ -148,7 +148,7 @@ export function HeroSection() {
               </div>
 
               <p className='text-base sm:text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 mb-8 leading-relaxed'>
-                Results-driven developer with 3+ years of experience designing
+                Results-driven developer with 5+ years of experience designing
                 and deploying scalable web applications. Currently based in
                 Dubai, UAE.
               </p>
@@ -274,7 +274,7 @@ export function HeroSection() {
                   animate={{ y: [0, -10, 0] }}
                   transition={{ duration: 3, repeat: Infinity }}
                 >
-                  <span className='text-sm font-semibold'>3+ Years Exp</span>
+                  <span className='text-sm font-semibold'>5+ Years Exp</span>
                 </motion.div>
                 <motion.div
                   className='absolute -bottom-4 -left-4 px-4 py-2 rounded-lg bg-card/80 backdrop-blur-sm border border-border shadow-lg'

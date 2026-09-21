@@ -78,7 +78,7 @@ export function HeroSection() {
             </div>
 
             <p className="text-base sm:text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 mb-8 leading-relaxed">
-              Results-driven developer with 3+ years of experience designing and deploying scalable web applications. 
+              Results-driven developer with 5+ years of experience designing and deploying scalable web applications. 
               Currently based in Dubai, UAE, specializing in Next.js, React, Node.js, and CRM automation.
             </p>
 
@@ -144,7 +144,7 @@ export function HeroSection() {
 
               {/* Floating Elements */}
               <div className="absolute -top-4 -right-4 px-4 py-2 rounded-lg glass shadow-lg animate-float" style={{ animationDelay: '0.5s' }}>
-                <span className="text-sm font-semibold">3+ Years Exp</span>
+                <span className="text-sm font-semibold">5+ Years Exp</span>
               </div>
               <div className="absolute -bottom-4 -left-4 px-4 py-2 rounded-lg glass shadow-lg animate-float" style={{ animationDelay: '1s' }}>
                 <span className="text-sm font-semibold">Dubai, UAE</span>

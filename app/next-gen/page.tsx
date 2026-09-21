@@ -426,7 +426,7 @@ export default function NextGenPage() {
               </div>
 
               <p className='text-base sm:text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 mb-8 leading-relaxed'>
-                Results-driven developer with 3+ years of experience designing
+                Results-driven developer with 5+ years of experience designing
                 and deploying scalable web applications. Currently based in
                 Dubai, UAE.
               </p>
@@ -519,7 +519,7 @@ export default function NextGenPage() {
                   animate={{ y: [0, -10, 0] }}
                   transition={{ duration: 3, repeat: Infinity }}
                 >
-                  <span className='text-sm font-semibold'>3+ Years Exp</span>
+                  <span className='text-sm font-semibold'>5+ Years Exp</span>
                 </motion.div>
                 <motion.div
                   className='absolute -bottom-4 -left-4 px-4 py-2 rounded-lg bg-card/80 backdrop-blur-sm border border-border shadow-lg'
@@ -595,7 +595,7 @@ export default function NextGenPage() {
 
               <div className='space-y-4 text-muted-foreground leading-relaxed'>
                 <p>
-                  Results-driven Full-Stack Web Developer with 3+ years of
+                  Results-driven Full-Stack Web Developer with 5+ years of
                   experience designing, developing, and deploying scalable web
                   applications across real estate and technology sectors.
                 </p>
@@ -622,7 +622,7 @@ export default function NextGenPage() {
 
               <div className='grid grid-cols-2 gap-4 mt-8'>
                 {[
-                  { icon: Briefcase, label: 'Experience', value: '3+ Years' },
+                  { icon: Briefcase, label: 'Experience', value: '5+ Years' },
                   { icon: MapPin, label: 'Location', value: 'Dubai, UAE' },
                   { icon: GraduationCap, label: 'Education', value: 'MCA' },
                   { icon: Award, label: 'Awards', value: 'Best Employee' },
