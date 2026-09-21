@@ -12,7 +12,7 @@ const experiences = [
     title: 'Web Developer & IT Support',
     company: 'X-Space Real Estate',
     location: 'Dubai, UAE',
-    period: 'November 2024 – Present',
+    period: 'November 2024 – May 2026',
     achievements: [
       'Develop full-stack web applications using Next.js and Node.js',
       'Integrate external APIs and XML property feeds',

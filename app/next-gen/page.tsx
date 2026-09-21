@@ -63,7 +63,7 @@ const projects = [
       "Integrated CRM and third-party APIs for seamless data synchronization",
       "Optimized performance, SEO, and mobile responsiveness",
     ],
-    period: "2024 - Present",
+    period: "2024 - 2026",
   },
   {
     title: "X-Space Admin Panel",
@@ -135,7 +135,7 @@ const experiences = [
     title: "Web Developer & IT Support",
     company: "X-Space Real Estate",
     location: "Dubai, UAE",
-    period: "November 2024 – Present",
+    period: "November 2024 – 2026",
     achievements: [
       "Develop full-stack web applications using Next.js and Node.js",
       "Integrate external APIs and XML property feeds",
