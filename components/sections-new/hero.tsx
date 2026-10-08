@@ -274,7 +274,7 @@ export function HeroSection() {
                   animate={{ y: [0, -10, 0] }}
                   transition={{ duration: 3, repeat: Infinity }}
                 >
-                  <span className='text-sm font-semibold'>5+ Years Exp</span>
+                  <span className='text-sm font-semibold'>3+ Years Exp</span>
                 </motion.div>
                 <motion.div
                   className='absolute -bottom-4 -left-4 px-4 py-2 rounded-lg bg-card/80 backdrop-blur-sm border border-border shadow-lg'

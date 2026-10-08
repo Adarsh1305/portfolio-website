@@ -40,7 +40,7 @@ export function AboutSection() {
                   <div className='relative group'>
                     <div className='relative rounded-2xl overflow-hidden border border-border/50 shadow-2xl'>
                       <Image
-                        src='/images/profile-aboutus-3.jpeg'
+                        src='/images/profile-aboutus-5.jpeg'
                         alt='Adarsh Vinothan'
                         width={500}
                         height={500}
