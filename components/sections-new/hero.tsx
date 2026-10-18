@@ -148,7 +148,7 @@ export function HeroSection() {
               </div>
 
               <p className='text-base sm:text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 mb-8 leading-relaxed'>
-                Results-driven developer with 5+ years of experience designing
+                Results-driven developer with 3+ years of experience designing
                 and deploying scalable web applications. Currently based in
                 Dubai, UAE.
               </p>

@@ -8,7 +8,7 @@ const highlights = [
   {
     icon: Briefcase,
     label: "Experience",
-    value: "5+ Years"
+    value: "3+ Years"
   },
   {
     icon: MapPin,
@@ -90,7 +90,7 @@ export function AboutSection() {
             
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Results-driven Full-Stack Web Developer with 5+ years of experience designing, 
+                Results-driven Full-Stack Web Developer with 3+ years of experience designing, 
                 developing, and deploying scalable web applications across real estate and technology sectors.
               </p>
               <p>

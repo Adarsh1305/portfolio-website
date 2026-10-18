@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'Adarsh Vinothan | Full-Stack Web Developer',
   description:
-    'Results-driven Full-Stack Web Developer with 5+ years of experience in Next.js, Node.js, React, and CRM Integration. Based in Dubai, UAE.',
+    'Results-driven Full-Stack Web Developer with 3+ years of experience in Next.js, Node.js, React, and CRM Integration. Based in Dubai, UAE.',
   keywords: [
     'Full-Stack Developer',
     'Web Developer',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Adarsh Vinothan | Full-Stack Web Developer',
     description:
-      'Results-driven Full-Stack Web Developer with 5+ years of experience designing, developing, and deploying scalable web applications.',
+      'Results-driven Full-Stack Web Developer with 3+ years of experience designing, developing, and deploying scalable web applications.',
     type: 'website',
   },
 };

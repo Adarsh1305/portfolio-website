@@ -67,7 +67,7 @@ export function AboutSection() {
 
             <div className='space-y-4 text-muted-foreground leading-relaxed'>
               <p>
-                Results-driven Full-Stack Web Developer with 5+ years of
+                Results-driven Full-Stack Web Developer with 3+ years of
                 experience designing, developing, and deploying scalable web
                 applications across real estate and technology sectors.
               </p>
@@ -91,7 +91,7 @@ export function AboutSection() {
 
             <div className='grid grid-cols-1 sm:grid-cols-2 gap-6 mt-10'>
               {[
-                { icon: Briefcase, label: 'Experience', value: '5+ Years' },
+                { icon: Briefcase, label: 'Experience', value: '3+ Years' },
                 { icon: MapPin, label: 'Location', value: 'Dubai, UAE' },
                 { icon: GraduationCap, label: 'Education', value: 'MCA' },
                 { icon: Award, label: 'Awards', value: 'Best Employee' },
