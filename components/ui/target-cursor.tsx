@@ -7,7 +7,7 @@ export function TargetCursor() {
   const [position, setPosition] = useState({ x: 0, y: 0 })
   const [isPointer, setIsPointer] = useState(false)
   const [isVisible, setIsVisible] = useState(false)
-  const requestRef = useRef<number>()
+  const requestRef = useRef<number | undefined>(undefined);
   const targetPosition = useRef({ x: 0, y: 0 })
 
   const animate = useCallback(() => {

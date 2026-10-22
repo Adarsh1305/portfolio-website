@@ -221,8 +221,11 @@ export function HeroSection() {
                     scale: [1.1, 1.2, 1.1],
                     opacity: [0.4, 0.6, 0.4],
                   }}
-                  transition={{ duration: 4, repeat: Infinity }}
-                  ease='easeInOut'
+                  transition={{
+                    duration: 4,
+                    repeat: Infinity,
+                    ease: 'easeInOut',
+                  }}           
                 />
 
                 {/* <BorderGlow glowSize={200}>
