@@ -8,6 +8,7 @@ const nextConfig = {
   devIndicators: {
     buildActivity: false,
   },
+  output: 'export',
 };
 
 export default nextConfig;
